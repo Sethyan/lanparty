@@ -5,6 +5,6 @@
 */cache/!index.html
 */cache/!.htaccess
 *~
-*/config/database
-*/config/config
-*/viejo/*
+*/config/database.php
+*/config/config.php
+*/viejo*
