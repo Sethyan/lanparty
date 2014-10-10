@@ -12,7 +12,8 @@ class Auth extends CI_Controller {
 	
 	public function index()
 	{
-		
+		//probar get
+		//http://localhost/codeigniterhelloworld/index.php/simpatic/grettings2?nom=pepito&cognom=ricote&cognom2=lajusticia
 	}
 	
 	public function login($pag=null){
